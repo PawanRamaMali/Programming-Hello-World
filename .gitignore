@@ -1,0 +1,18 @@
+*.txt
+*.exe
+*.class
+
+# ignore vscode files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/HelloWorld/v16/Browse.VC.opendb
+/.vs/HelloWorld/v16/Browse.VC.db
+/.vs/HelloWorld/v16/.suo
+/.vs/HelloWorld/v16
+/.vs
